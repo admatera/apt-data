@@ -1,0 +1,3807 @@
+[
+  {
+    "Z": 89,
+    "symbol": "Ac",
+    "name": "Actinium",
+    "layout": {
+      "display_col": 4,
+      "group": 3,
+      "period": 7,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_whole_ppm": 5.5e-10,
+      "sphere_size_ppm": 5.5e-10
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 6d1",
+      "IonizationEnergy": "5.17",
+      "StandardState": "Solid",
+      "MeltingPoint": "1324",
+      "AtomicRadius": "260",
+      "AtomicMass": "227.02775",
+      "BoilingPoint": "3471",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.1",
+      "Density": "10.07"
+    }
+  },
+  {
+    "Z": 47,
+    "symbol": "Ag",
+    "name": "Silver",
+    "layout": {
+      "display_col": 11,
+      "group": 11,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 53.0,
+      "urban_soils_ppm": 0.37,
+      "crust_whole_ppm": 0.075,
+      "sphere_size_ppm": 0.075
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s1 4d10",
+      "IonizationEnergy": "7.576",
+      "StandardState": "Solid",
+      "MeltingPoint": "1234.93",
+      "AtomicRadius": "172",
+      "AtomicMass": "107.868",
+      "ElectronAffinity": "1.302",
+      "BoilingPoint": "2435",
+      "OxidationStates": "+1",
+      "Electronegativity": "1.93",
+      "Density": "10.501"
+    }
+  },
+  {
+    "Z": 13,
+    "symbol": "Al",
+    "name": "Aluminum",
+    "layout": {
+      "display_col": 13,
+      "group": 13,
+      "period": 3,
+      "series": "main",
+      "display_row": 3,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 80400.0,
+      "urban_soils_ppm": 38200.0,
+      "crust_whole_ppm": 82300.0,
+      "sphere_size_ppm": 82300.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ne]3s2 3p1",
+      "IonizationEnergy": "5.986",
+      "StandardState": "Solid",
+      "MeltingPoint": "933.437",
+      "AtomicRadius": "184",
+      "AtomicMass": "26.981538",
+      "ElectronAffinity": "0.441",
+      "BoilingPoint": "2792",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.61",
+      "Density": "2.70"
+    }
+  },
+  {
+    "Z": 95,
+    "symbol": "Am",
+    "name": "Americium",
+    "layout": {
+      "display_col": 10,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f7",
+      "IonizationEnergy": "5.993",
+      "StandardState": "Solid",
+      "MeltingPoint": "1449",
+      "AtomicRadius": "244",
+      "AtomicMass": "243.061380",
+      "BoilingPoint": "2284",
+      "OxidationStates": "+6, +5, +4, +3",
+      "Electronegativity": "1.3",
+      "Density": "13.69"
+    }
+  },
+  {
+    "Z": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "layout": {
+      "display_col": 18,
+      "group": 18,
+      "period": 3,
+      "series": "main",
+      "display_row": 3,
+      "block": "p"
+    },
+    "category": {
+      "major": "noble_gas",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_whole_ppm": 3.5,
+      "sphere_size_ppm": 3.5
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ne]3s2 3p6",
+      "IonizationEnergy": "15.760",
+      "StandardState": "Gas",
+      "MeltingPoint": "83.8",
+      "AtomicRadius": "188",
+      "AtomicMass": "39.9",
+      "BoilingPoint": "87.3",
+      "OxidationStates": "0",
+      "Density": "0.0017837"
+    }
+  },
+  {
+    "Z": 33,
+    "symbol": "As",
+    "name": "Arsenic",
+    "layout": {
+      "display_col": 15,
+      "group": 15,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "p"
+    },
+    "category": {
+      "major": "metalloid",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 4.8,
+      "urban_soils_ppm": 15.9,
+      "crust_whole_ppm": 1.7999999999999998,
+      "sphere_size_ppm": 1.7999999999999998
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d10 4p3",
+      "IonizationEnergy": "9.815",
+      "StandardState": "Solid",
+      "MeltingPoint": "1090",
+      "AtomicRadius": "185",
+      "AtomicMass": "74.92159",
+      "ElectronAffinity": "0.81",
+      "BoilingPoint": "887",
+      "OxidationStates": "+5, +3, -3",
+      "Electronegativity": "2.18",
+      "Density": "5.776"
+    }
+  },
+  {
+    "Z": 85,
+    "symbol": "At",
+    "name": "Astatine",
+    "layout": {
+      "display_col": 17,
+      "group": 17,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "p"
+    },
+    "category": {
+      "major": "halogen",
+      "minor": "p_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d10 6p5",
+      "IonizationEnergy": "9.5",
+      "StandardState": "Solid",
+      "MeltingPoint": "575",
+      "AtomicRadius": "202",
+      "AtomicMass": "209.98715",
+      "ElectronAffinity": "2.8",
+      "OxidationStates": "7, 5, 3, 1, -1",
+      "Electronegativity": "2.2",
+      "Density": "7"
+    }
+  },
+  {
+    "Z": 79,
+    "symbol": "Au",
+    "name": "Gold",
+    "layout": {
+      "display_col": 11,
+      "group": 11,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 1.5,
+      "crust_whole_ppm": 0.004,
+      "sphere_size_ppm": 0.004
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s1 4f14 5d10",
+      "IonizationEnergy": "9.226",
+      "StandardState": "Solid",
+      "MeltingPoint": "1337.33",
+      "AtomicRadius": "166",
+      "AtomicMass": "196.96657",
+      "ElectronAffinity": "2.309",
+      "BoilingPoint": "3129",
+      "OxidationStates": "+3, +1",
+      "Electronegativity": "2.54",
+      "Density": "19.282"
+    }
+  },
+  {
+    "Z": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "layout": {
+      "display_col": 13,
+      "group": 13,
+      "period": 2,
+      "series": "main",
+      "display_row": 2,
+      "block": "p"
+    },
+    "category": {
+      "major": "metalloid",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 17.0,
+      "urban_soils_ppm": 45.0,
+      "crust_whole_ppm": 10.0,
+      "sphere_size_ppm": 10.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[He]2s2 2p1",
+      "IonizationEnergy": "8.298",
+      "StandardState": "Solid",
+      "MeltingPoint": "2348",
+      "AtomicRadius": "192",
+      "AtomicMass": "10.81",
+      "ElectronAffinity": "0.277",
+      "BoilingPoint": "4273",
+      "OxidationStates": "+3",
+      "Electronegativity": "2.04",
+      "Density": "2.37"
+    }
+  },
+  {
+    "Z": 56,
+    "symbol": "Ba",
+    "name": "Barium",
+    "layout": {
+      "display_col": 2,
+      "group": 2,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkaline_earth"
+    },
+    "best": {
+      "crust_ucc_ppm": 624.0,
+      "urban_soils_ppm": 853.12,
+      "crust_whole_ppm": 425.0,
+      "sphere_size_ppm": 425.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2",
+      "IonizationEnergy": "5.212",
+      "StandardState": "Solid",
+      "MeltingPoint": "1000",
+      "AtomicRadius": "268",
+      "AtomicMass": "137.33",
+      "BoilingPoint": "2170",
+      "OxidationStates": "+2",
+      "Electronegativity": "0.89",
+      "Density": "3.62"
+    }
+  },
+  {
+    "Z": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "layout": {
+      "display_col": 2,
+      "group": 2,
+      "period": 2,
+      "series": "main",
+      "display_row": 2,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkaline_earth"
+    },
+    "best": {
+      "crust_ucc_ppm": 2.1,
+      "urban_soils_ppm": 3.3,
+      "crust_whole_ppm": 2.8,
+      "sphere_size_ppm": 2.8
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[He]2s2",
+      "IonizationEnergy": "9.323",
+      "StandardState": "Solid",
+      "MeltingPoint": "1560",
+      "AtomicRadius": "153",
+      "AtomicMass": "9.012183",
+      "BoilingPoint": "2744",
+      "OxidationStates": "+2",
+      "Electronegativity": "1.57",
+      "Density": "1.85"
+    }
+  },
+  {
+    "Z": 107,
+    "symbol": "Bh",
+    "name": "Bohrium",
+    "layout": {
+      "display_col": 7,
+      "group": 7,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d5",
+      "StandardState": "Solid",
+      "AtomicMass": "270.133",
+      "OxidationStates": "7, 5, 4, 3"
+    }
+  },
+  {
+    "Z": 83,
+    "symbol": "Bi",
+    "name": "Bismuth",
+    "layout": {
+      "display_col": 15,
+      "group": 15,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.16,
+      "urban_soils_ppm": 1.12,
+      "crust_whole_ppm": 0.0085,
+      "sphere_size_ppm": 0.0085
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d10 6p3",
+      "IonizationEnergy": "7.289",
+      "StandardState": "Solid",
+      "MeltingPoint": "544.55",
+      "AtomicRadius": "207",
+      "AtomicMass": "208.98040",
+      "ElectronAffinity": "0.946",
+      "BoilingPoint": "1837",
+      "OxidationStates": "+5, +3",
+      "Electronegativity": "2.02",
+      "Density": "9.807"
+    }
+  },
+  {
+    "Z": 97,
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "layout": {
+      "display_col": 12,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f9",
+      "IonizationEnergy": "6.23",
+      "StandardState": "Solid",
+      "MeltingPoint": "1323",
+      "AtomicRadius": "244",
+      "AtomicMass": "247.07031",
+      "OxidationStates": "+4, +3",
+      "Electronegativity": "1.3",
+      "Density": "14"
+    }
+  },
+  {
+    "Z": 35,
+    "symbol": "Br",
+    "name": "Bromine",
+    "layout": {
+      "display_col": 17,
+      "group": 17,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "p"
+    },
+    "category": {
+      "major": "halogen",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 1.6,
+      "crust_whole_ppm": 2.4,
+      "sphere_size_ppm": 2.4
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d10 4p5",
+      "IonizationEnergy": "11.814",
+      "StandardState": "Liquid",
+      "MeltingPoint": "265.95",
+      "AtomicRadius": "183",
+      "AtomicMass": "79.90",
+      "ElectronAffinity": "3.365",
+      "BoilingPoint": "331.95",
+      "OxidationStates": "+5, +1, -1",
+      "Electronegativity": "2.96",
+      "Density": "3.11"
+    }
+  },
+  {
+    "Z": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "layout": {
+      "display_col": 14,
+      "group": 14,
+      "period": 2,
+      "series": "main",
+      "display_row": 2,
+      "block": "p"
+    },
+    "category": {
+      "major": "nonmetal",
+      "minor": "nonmetal"
+    },
+    "best": {
+      "urban_soils_ppm": 45100.0,
+      "crust_whole_ppm": 200.0,
+      "sphere_size_ppm": 200.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[He]2s2 2p2",
+      "IonizationEnergy": "11.260",
+      "StandardState": "Solid",
+      "MeltingPoint": "3823",
+      "AtomicRadius": "170",
+      "AtomicMass": "12.011",
+      "ElectronAffinity": "1.263",
+      "BoilingPoint": "4098",
+      "OxidationStates": "+4, +2, -4",
+      "Electronegativity": "2.55",
+      "Density": "2.2670"
+    }
+  },
+  {
+    "Z": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "layout": {
+      "display_col": 2,
+      "group": 2,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkaline_earth"
+    },
+    "best": {
+      "crust_ucc_ppm": 30000.0,
+      "urban_soils_ppm": 53800.0,
+      "crust_whole_ppm": 41500.0,
+      "sphere_size_ppm": 41500.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2",
+      "IonizationEnergy": "6.113",
+      "StandardState": "Solid",
+      "MeltingPoint": "1115",
+      "AtomicRadius": "231",
+      "AtomicMass": "40.08",
+      "BoilingPoint": "1757",
+      "OxidationStates": "+2",
+      "Electronegativity": "1",
+      "Density": "1.54"
+    }
+  },
+  {
+    "Z": 48,
+    "symbol": "Cd",
+    "name": "Cadmium",
+    "layout": {
+      "display_col": 12,
+      "group": 12,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.09,
+      "urban_soils_ppm": 0.9,
+      "crust_whole_ppm": 0.15,
+      "sphere_size_ppm": 0.15
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d10",
+      "IonizationEnergy": "8.994",
+      "StandardState": "Solid",
+      "MeltingPoint": "594.22",
+      "AtomicRadius": "158",
+      "AtomicMass": "112.41",
+      "BoilingPoint": "1040",
+      "OxidationStates": "+2",
+      "Electronegativity": "1.69",
+      "Density": "8.69"
+    }
+  },
+  {
+    "Z": 58,
+    "symbol": "Ce",
+    "name": "Cerium",
+    "layout": {
+      "display_col": 5,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 63.0,
+      "crust_whole_ppm": 66.5,
+      "sphere_size_ppm": 66.5
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f1 5d1",
+      "IonizationEnergy": "5.539",
+      "StandardState": "Solid",
+      "MeltingPoint": "1071",
+      "AtomicRadius": "235",
+      "AtomicMass": "140.116",
+      "ElectronAffinity": "0.5",
+      "BoilingPoint": "3697",
+      "OxidationStates": "+4, +3",
+      "Electronegativity": "1.12",
+      "Density": "6.770"
+    }
+  },
+  {
+    "Z": 98,
+    "symbol": "Cf",
+    "name": "Californium",
+    "layout": {
+      "display_col": 13,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f10",
+      "IonizationEnergy": "6.30",
+      "StandardState": "Solid",
+      "MeltingPoint": "1173",
+      "AtomicRadius": "245",
+      "AtomicMass": "251.07959",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.3"
+    }
+  },
+  {
+    "Z": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "layout": {
+      "display_col": 17,
+      "group": 17,
+      "period": 3,
+      "series": "main",
+      "display_row": 3,
+      "block": "p"
+    },
+    "category": {
+      "major": "halogen",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 370.0,
+      "urban_soils_ppm": 285.0,
+      "crust_whole_ppm": 145.0,
+      "sphere_size_ppm": 145.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ne]3s2 3p5",
+      "IonizationEnergy": "12.968",
+      "StandardState": "Gas",
+      "MeltingPoint": "171.65",
+      "AtomicRadius": "175",
+      "AtomicMass": "35.45",
+      "ElectronAffinity": "3.617",
+      "BoilingPoint": "239.11",
+      "OxidationStates": "+7, +5, +1, -1",
+      "Electronegativity": "3.16",
+      "Density": "0.003214"
+    }
+  },
+  {
+    "Z": 96,
+    "symbol": "Cm",
+    "name": "Curium",
+    "layout": {
+      "display_col": 11,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f7 6d1",
+      "IonizationEnergy": "6.02",
+      "StandardState": "Solid",
+      "MeltingPoint": "1618",
+      "AtomicRadius": "245",
+      "AtomicMass": "247.07035",
+      "BoilingPoint": "3400",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.3",
+      "Density": "13.51"
+    }
+  },
+  {
+    "Z": 112,
+    "symbol": "Cn",
+    "name": "Copernicium",
+    "layout": {
+      "display_col": 12,
+      "group": 12,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d10 (predicted)",
+      "StandardState": "Expected to be a Solid",
+      "AtomicMass": "286.179",
+      "OxidationStates": "2, 1, 0"
+    }
+  },
+  {
+    "Z": 27,
+    "symbol": "Co",
+    "name": "Cobalt",
+    "layout": {
+      "display_col": 9,
+      "group": 9,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 17.3,
+      "urban_soils_ppm": 14.1,
+      "crust_whole_ppm": 25.0,
+      "sphere_size_ppm": 25.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d7",
+      "IonizationEnergy": "7.881",
+      "StandardState": "Solid",
+      "MeltingPoint": "1768",
+      "AtomicRadius": "192",
+      "AtomicMass": "58.93319",
+      "ElectronAffinity": "0.661",
+      "BoilingPoint": "3200",
+      "OxidationStates": "+3, +2",
+      "Electronegativity": "1.88",
+      "Density": "8.86"
+    }
+  },
+  {
+    "Z": 24,
+    "symbol": "Cr",
+    "name": "Chromium",
+    "layout": {
+      "display_col": 6,
+      "group": 6,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 92.0,
+      "urban_soils_ppm": 80.0,
+      "crust_whole_ppm": 102.0,
+      "sphere_size_ppm": 102.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]3d5 4s1",
+      "IonizationEnergy": "6.767",
+      "StandardState": "Solid",
+      "MeltingPoint": "2180",
+      "AtomicRadius": "189",
+      "AtomicMass": "51.996",
+      "ElectronAffinity": "0.666",
+      "BoilingPoint": "2944",
+      "OxidationStates": "+6, +3, +2",
+      "Electronegativity": "1.66",
+      "Density": "7.15"
+    }
+  },
+  {
+    "Z": 55,
+    "symbol": "Cs",
+    "name": "Cesium",
+    "layout": {
+      "display_col": 1,
+      "group": 1,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkali"
+    },
+    "best": {
+      "crust_ucc_ppm": 4.9,
+      "urban_soils_ppm": 5.0,
+      "crust_whole_ppm": 3.0,
+      "sphere_size_ppm": 3.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s1",
+      "IonizationEnergy": "3.894",
+      "StandardState": "Solid",
+      "MeltingPoint": "301.59",
+      "AtomicRadius": "343",
+      "AtomicMass": "132.9054520",
+      "ElectronAffinity": "0.472",
+      "BoilingPoint": "944",
+      "OxidationStates": "+1",
+      "Electronegativity": "0.79",
+      "Density": "1.93"
+    }
+  },
+  {
+    "Z": 29,
+    "symbol": "Cu",
+    "name": "Copper",
+    "layout": {
+      "display_col": 11,
+      "group": 11,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 28.0,
+      "urban_soils_ppm": 39.0,
+      "crust_whole_ppm": 60.0,
+      "sphere_size_ppm": 60.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s1 3d10",
+      "IonizationEnergy": "7.726",
+      "StandardState": "Solid",
+      "MeltingPoint": "1357.77",
+      "AtomicRadius": "140",
+      "AtomicMass": "63.55",
+      "ElectronAffinity": "1.228",
+      "BoilingPoint": "2835",
+      "OxidationStates": "+2, +1",
+      "Electronegativity": "1.9",
+      "Density": "8.933"
+    }
+  },
+  {
+    "Z": 105,
+    "symbol": "Db",
+    "name": "Dubnium",
+    "layout": {
+      "display_col": 5,
+      "group": 5,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d3",
+      "StandardState": "Solid",
+      "AtomicMass": "268.126",
+      "OxidationStates": "5, 4, 3"
+    }
+  },
+  {
+    "Z": 110,
+    "symbol": "Ds",
+    "name": "Darmstadtium",
+    "layout": {
+      "display_col": 10,
+      "group": 10,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d8 (predicted)",
+      "StandardState": "Expected to be a Solid",
+      "AtomicMass": "282.166",
+      "OxidationStates": "8, 6, 4, 2, 0"
+    }
+  },
+  {
+    "Z": 66,
+    "symbol": "Dy",
+    "name": "Dysprosium",
+    "layout": {
+      "display_col": 13,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 3.9,
+      "crust_whole_ppm": 5.2,
+      "sphere_size_ppm": 5.2
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f10",
+      "IonizationEnergy": "5.939",
+      "StandardState": "Solid",
+      "MeltingPoint": "1685",
+      "AtomicRadius": "229",
+      "AtomicMass": "162.500",
+      "BoilingPoint": "2840",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.22",
+      "Density": "8.55"
+    }
+  },
+  {
+    "Z": 68,
+    "symbol": "Er",
+    "name": "Erbium",
+    "layout": {
+      "display_col": 15,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 2.3,
+      "crust_whole_ppm": 3.5,
+      "sphere_size_ppm": 3.5
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f12",
+      "IonizationEnergy": "6.108",
+      "StandardState": "Solid",
+      "MeltingPoint": "1802",
+      "AtomicRadius": "235",
+      "AtomicMass": "167.26",
+      "BoilingPoint": "3141",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.24",
+      "Density": "9.07"
+    }
+  },
+  {
+    "Z": 99,
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "layout": {
+      "display_col": 14,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f11",
+      "IonizationEnergy": "6.42",
+      "StandardState": "Solid",
+      "MeltingPoint": "1133",
+      "AtomicRadius": "245",
+      "AtomicMass": "252.0830",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.3"
+    }
+  },
+  {
+    "Z": 63,
+    "symbol": "Eu",
+    "name": "Europium",
+    "layout": {
+      "display_col": 10,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 1.0,
+      "crust_whole_ppm": 2.0,
+      "sphere_size_ppm": 2.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f7",
+      "IonizationEnergy": "5.670",
+      "StandardState": "Solid",
+      "MeltingPoint": "1095",
+      "AtomicRadius": "233",
+      "AtomicMass": "151.964",
+      "BoilingPoint": "1802",
+      "OxidationStates": "+3, +2",
+      "Density": "5.24"
+    }
+  },
+  {
+    "Z": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "layout": {
+      "display_col": 17,
+      "group": 17,
+      "period": 2,
+      "series": "main",
+      "display_row": 2,
+      "block": "p"
+    },
+    "category": {
+      "major": "halogen",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 557.0,
+      "crust_whole_ppm": 585.0,
+      "sphere_size_ppm": 585.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[He]2s2 2p5",
+      "IonizationEnergy": "17.423",
+      "StandardState": "Gas",
+      "MeltingPoint": "53.53",
+      "AtomicRadius": "135",
+      "AtomicMass": "18.99840316",
+      "ElectronAffinity": "3.339",
+      "BoilingPoint": "85.03",
+      "OxidationStates": "-1",
+      "Electronegativity": "3.98",
+      "Density": "0.001696"
+    }
+  },
+  {
+    "Z": 26,
+    "symbol": "Fe",
+    "name": "Iron",
+    "layout": {
+      "display_col": 8,
+      "group": 8,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 35000.0,
+      "urban_soils_ppm": 22300.0,
+      "crust_whole_ppm": 56300.0,
+      "sphere_size_ppm": 56300.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d6",
+      "IonizationEnergy": "7.902",
+      "StandardState": "Solid",
+      "MeltingPoint": "1811",
+      "AtomicRadius": "194",
+      "AtomicMass": "55.84",
+      "ElectronAffinity": "0.163",
+      "BoilingPoint": "3134",
+      "OxidationStates": "+3, +2",
+      "Electronegativity": "1.83",
+      "Density": "7.874"
+    }
+  },
+  {
+    "Z": 114,
+    "symbol": "Fl",
+    "name": "Flerovium",
+    "layout": {
+      "display_col": 14,
+      "group": 14,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 7p2 5f14 6d10 (predicted)",
+      "StandardState": "Expected to be a Solid",
+      "AtomicMass": "290.192",
+      "OxidationStates": "6, 4,2, 1, 0"
+    }
+  },
+  {
+    "Z": 100,
+    "symbol": "Fm",
+    "name": "Fermium",
+    "layout": {
+      "display_col": 15,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn] 5f12 7s2",
+      "IonizationEnergy": "6.50",
+      "StandardState": "Solid",
+      "MeltingPoint": "1800",
+      "AtomicMass": "257.09511",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.3"
+    }
+  },
+  {
+    "Z": 87,
+    "symbol": "Fr",
+    "name": "Francium",
+    "layout": {
+      "display_col": 1,
+      "group": 1,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkali"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s1",
+      "IonizationEnergy": "3.9",
+      "StandardState": "Solid",
+      "MeltingPoint": "300",
+      "AtomicRadius": "348",
+      "AtomicMass": "223.01973",
+      "ElectronAffinity": "0.47",
+      "OxidationStates": "+1",
+      "Electronegativity": "0.7"
+    }
+  },
+  {
+    "Z": 31,
+    "symbol": "Ga",
+    "name": "Gallium",
+    "layout": {
+      "display_col": 13,
+      "group": 13,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 17.5,
+      "urban_soils_ppm": 16.2,
+      "crust_whole_ppm": 19.0,
+      "sphere_size_ppm": 19.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d10 4p1",
+      "IonizationEnergy": "5.999",
+      "StandardState": "Solid",
+      "MeltingPoint": "302.91",
+      "AtomicRadius": "187",
+      "AtomicMass": "69.723",
+      "ElectronAffinity": "0.3",
+      "BoilingPoint": "2477",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.81",
+      "Density": "5.91"
+    }
+  },
+  {
+    "Z": 64,
+    "symbol": "Gd",
+    "name": "Gadolinium",
+    "layout": {
+      "display_col": 11,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 4.0,
+      "crust_whole_ppm": 6.2,
+      "sphere_size_ppm": 6.2
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f7 5d1",
+      "IonizationEnergy": "6.150",
+      "StandardState": "Solid",
+      "MeltingPoint": "1586",
+      "AtomicRadius": "237",
+      "AtomicMass": "157.25",
+      "BoilingPoint": "3546",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.2",
+      "Density": "7.90"
+    }
+  },
+  {
+    "Z": 32,
+    "symbol": "Ge",
+    "name": "Germanium",
+    "layout": {
+      "display_col": 14,
+      "group": 14,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "p"
+    },
+    "category": {
+      "major": "metalloid",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 1.4,
+      "urban_soils_ppm": 1.8,
+      "crust_whole_ppm": 1.5,
+      "sphere_size_ppm": 1.5
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d10 4p2",
+      "IonizationEnergy": "7.900",
+      "StandardState": "Solid",
+      "MeltingPoint": "1211.4",
+      "AtomicRadius": "211",
+      "AtomicMass": "72.63",
+      "ElectronAffinity": "1.35",
+      "BoilingPoint": "3106",
+      "OxidationStates": "+4, +2",
+      "Electronegativity": "2.01",
+      "Density": "5.323"
+    }
+  },
+  {
+    "Z": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "layout": {
+      "display_col": 1,
+      "group": 1,
+      "period": 1,
+      "series": "main",
+      "display_row": 1,
+      "block": "s"
+    },
+    "category": {
+      "major": "nonmetal",
+      "minor": "nonmetal"
+    },
+    "best": {
+      "urban_soils_ppm": 15000.0,
+      "crust_whole_ppm": 1400.0,
+      "sphere_size_ppm": 1400.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "1s1",
+      "IonizationEnergy": "13.598",
+      "StandardState": "Gas",
+      "MeltingPoint": "13.81",
+      "AtomicRadius": "120",
+      "AtomicMass": "1.0080",
+      "ElectronAffinity": "0.754",
+      "BoilingPoint": "20.28",
+      "OxidationStates": "+1, -1",
+      "Electronegativity": "2.2",
+      "Density": "0.00008988"
+    }
+  },
+  {
+    "Z": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "layout": {
+      "display_col": 18,
+      "group": 18,
+      "period": 1,
+      "series": "main",
+      "display_row": 1,
+      "block": "p"
+    },
+    "category": {
+      "major": "noble_gas",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_whole_ppm": 0.008,
+      "sphere_size_ppm": 0.008
+    },
+    "pubchem": {
+      "ElectronConfiguration": "1s2",
+      "IonizationEnergy": "24.587",
+      "StandardState": "Gas",
+      "MeltingPoint": "0.95",
+      "AtomicRadius": "140",
+      "AtomicMass": "4.00260",
+      "BoilingPoint": "4.22",
+      "OxidationStates": "0",
+      "Density": "0.0001785"
+    }
+  },
+  {
+    "Z": 72,
+    "symbol": "Hf",
+    "name": "Hafnium",
+    "layout": {
+      "display_col": 4,
+      "group": 4,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 5.3,
+      "crust_whole_ppm": 3.0,
+      "sphere_size_ppm": 3.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d2",
+      "IonizationEnergy": "6.825",
+      "StandardState": "Solid",
+      "MeltingPoint": "2506",
+      "AtomicRadius": "212",
+      "AtomicMass": "178.49",
+      "BoilingPoint": "4876",
+      "OxidationStates": "+4",
+      "Electronegativity": "1.3",
+      "Density": "13.3"
+    }
+  },
+  {
+    "Z": 80,
+    "symbol": "Hg",
+    "name": "Mercury",
+    "layout": {
+      "display_col": 12,
+      "group": 12,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.05,
+      "urban_soils_ppm": 0.88,
+      "crust_whole_ppm": 0.08499999999999999,
+      "sphere_size_ppm": 0.08499999999999999
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d10",
+      "IonizationEnergy": "10.438",
+      "StandardState": "Liquid",
+      "MeltingPoint": "234.32",
+      "AtomicRadius": "209",
+      "AtomicMass": "200.59",
+      "BoilingPoint": "629.88",
+      "OxidationStates": "+2, +1",
+      "Electronegativity": "2",
+      "Density": "13.5336"
+    }
+  },
+  {
+    "Z": 67,
+    "symbol": "Ho",
+    "name": "Holmium",
+    "layout": {
+      "display_col": 14,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.83,
+      "crust_whole_ppm": 1.3,
+      "sphere_size_ppm": 1.3
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f11",
+      "IonizationEnergy": "6.022",
+      "StandardState": "Solid",
+      "MeltingPoint": "1747",
+      "AtomicRadius": "216",
+      "AtomicMass": "164.93033",
+      "BoilingPoint": "2973",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.23",
+      "Density": "8.80"
+    }
+  },
+  {
+    "Z": 108,
+    "symbol": "Hs",
+    "name": "Hassium",
+    "layout": {
+      "display_col": 8,
+      "group": 8,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d6",
+      "StandardState": "Solid",
+      "AtomicMass": "269.1336",
+      "OxidationStates": "8, 6, 5, 4, 3, 2"
+    }
+  },
+  {
+    "Z": 53,
+    "symbol": "I",
+    "name": "Iodine",
+    "layout": {
+      "display_col": 17,
+      "group": 17,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "p"
+    },
+    "category": {
+      "major": "halogen",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 1.4,
+      "crust_whole_ppm": 0.44999999999999996,
+      "sphere_size_ppm": 0.44999999999999996
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d10 5p5",
+      "IonizationEnergy": "10.451",
+      "StandardState": "Solid",
+      "MeltingPoint": "386.85",
+      "AtomicRadius": "198",
+      "AtomicMass": "126.9045",
+      "ElectronAffinity": "3.059",
+      "BoilingPoint": "457.55",
+      "OxidationStates": "+7, +5, +1, -1",
+      "Electronegativity": "2.66",
+      "Density": "4.93"
+    }
+  },
+  {
+    "Z": 49,
+    "symbol": "In",
+    "name": "Indium",
+    "layout": {
+      "display_col": 13,
+      "group": 13,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.056,
+      "crust_whole_ppm": 0.25,
+      "sphere_size_ppm": 0.25
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d10 5p1",
+      "IonizationEnergy": "5.786",
+      "StandardState": "Solid",
+      "MeltingPoint": "429.75",
+      "AtomicRadius": "193",
+      "AtomicMass": "114.818",
+      "ElectronAffinity": "0.3",
+      "BoilingPoint": "2345",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.78",
+      "Density": "7.31"
+    }
+  },
+  {
+    "Z": 77,
+    "symbol": "Ir",
+    "name": "Iridium",
+    "layout": {
+      "display_col": 9,
+      "group": 9,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.022,
+      "crust_whole_ppm": 0.001,
+      "sphere_size_ppm": 0.001
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d7",
+      "IonizationEnergy": "9.1",
+      "StandardState": "Solid",
+      "MeltingPoint": "2719",
+      "AtomicRadius": "202",
+      "AtomicMass": "192.22",
+      "ElectronAffinity": "1.565",
+      "BoilingPoint": "4701",
+      "OxidationStates": "+4, +3",
+      "Electronegativity": "2.2",
+      "Density": "22.42"
+    }
+  },
+  {
+    "Z": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "layout": {
+      "display_col": 1,
+      "group": 1,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkali"
+    },
+    "best": {
+      "crust_ucc_ppm": 28000.0,
+      "urban_soils_ppm": 13400.0,
+      "crust_whole_ppm": 20900.0,
+      "sphere_size_ppm": 20900.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s1",
+      "IonizationEnergy": "4.341",
+      "StandardState": "Solid",
+      "MeltingPoint": "336.53",
+      "AtomicRadius": "275",
+      "AtomicMass": "39.0983",
+      "ElectronAffinity": "0.501",
+      "BoilingPoint": "1032",
+      "OxidationStates": "+1",
+      "Electronegativity": "0.82",
+      "Density": "0.89"
+    }
+  },
+  {
+    "Z": 36,
+    "symbol": "Kr",
+    "name": "Krypton",
+    "layout": {
+      "display_col": 18,
+      "group": 18,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "p"
+    },
+    "category": {
+      "major": "noble_gas",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_whole_ppm": 0.0001,
+      "sphere_size_ppm": 0.0001
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d10 4p6",
+      "IonizationEnergy": "14.000",
+      "StandardState": "Gas",
+      "MeltingPoint": "115.79",
+      "AtomicRadius": "202",
+      "AtomicMass": "83.80",
+      "BoilingPoint": "119.93",
+      "OxidationStates": "0",
+      "Electronegativity": "3",
+      "Density": "0.003733"
+    }
+  },
+  {
+    "Z": 57,
+    "symbol": "La",
+    "name": "Lanthanum",
+    "layout": {
+      "display_col": 4,
+      "group": 3,
+      "period": 6,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 31.0,
+      "urban_soils_ppm": 34.0,
+      "crust_whole_ppm": 39.0,
+      "sphere_size_ppm": 39.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 5d1",
+      "IonizationEnergy": "5.577",
+      "StandardState": "Solid",
+      "MeltingPoint": "1191",
+      "AtomicRadius": "240",
+      "AtomicMass": "138.9055",
+      "ElectronAffinity": "0.5",
+      "BoilingPoint": "3737",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.1",
+      "Density": "6.15"
+    }
+  },
+  {
+    "Z": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "layout": {
+      "display_col": 1,
+      "group": 1,
+      "period": 2,
+      "series": "main",
+      "display_row": 2,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkali"
+    },
+    "best": {
+      "crust_ucc_ppm": 21.0,
+      "urban_soils_ppm": 49.5,
+      "crust_whole_ppm": 20.0,
+      "sphere_size_ppm": 20.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[He]2s1",
+      "IonizationEnergy": "5.392",
+      "StandardState": "Solid",
+      "MeltingPoint": "453.65",
+      "AtomicRadius": "182",
+      "AtomicMass": "7.0",
+      "ElectronAffinity": "0.618",
+      "BoilingPoint": "1615",
+      "OxidationStates": "+1",
+      "Electronegativity": "0.98",
+      "Density": "0.534"
+    }
+  },
+  {
+    "Z": 103,
+    "symbol": "Lr",
+    "name": "Lawrencium",
+    "layout": {
+      "display_col": 18,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d1",
+      "StandardState": "Solid",
+      "MeltingPoint": "1900",
+      "AtomicMass": "266.120",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.3"
+    }
+  },
+  {
+    "Z": 71,
+    "symbol": "Lu",
+    "name": "Lutetium",
+    "layout": {
+      "display_col": 18,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.31,
+      "crust_whole_ppm": 0.7999999999999999,
+      "sphere_size_ppm": 0.7999999999999999
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d1",
+      "IonizationEnergy": "5.426",
+      "StandardState": "Solid",
+      "MeltingPoint": "1936",
+      "AtomicRadius": "221",
+      "AtomicMass": "174.9667",
+      "BoilingPoint": "3675",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.27",
+      "Density": "9.84"
+    }
+  },
+  {
+    "Z": 116,
+    "symbol": "Lv",
+    "name": "Livermorium",
+    "layout": {
+      "display_col": 16,
+      "group": 16,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 7p4 5f14 6d10 (predicted)",
+      "StandardState": "Expected to be a Solid",
+      "AtomicMass": "293.205",
+      "OxidationStates": "+4, +2, -2"
+    }
+  },
+  {
+    "Z": 115,
+    "symbol": "Mc",
+    "name": "Moscovium",
+    "layout": {
+      "display_col": 15,
+      "group": 15,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 7p3 5f14 6d10 (predicted)",
+      "StandardState": "Expected to be a Solid",
+      "AtomicMass": "290.196",
+      "OxidationStates": "3, 1"
+    }
+  },
+  {
+    "Z": 101,
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "layout": {
+      "display_col": 16,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f13",
+      "IonizationEnergy": "6.58",
+      "StandardState": "Solid",
+      "MeltingPoint": "1100",
+      "AtomicMass": "258.09843",
+      "OxidationStates": "+3, +2",
+      "Electronegativity": "1.3"
+    }
+  },
+  {
+    "Z": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "layout": {
+      "display_col": 2,
+      "group": 2,
+      "period": 3,
+      "series": "main",
+      "display_row": 3,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkaline_earth"
+    },
+    "best": {
+      "crust_ucc_ppm": 13300.0,
+      "urban_soils_ppm": 7900.0,
+      "crust_whole_ppm": 23300.0,
+      "sphere_size_ppm": 23300.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ne]3s2",
+      "IonizationEnergy": "7.646",
+      "StandardState": "Solid",
+      "MeltingPoint": "923",
+      "AtomicRadius": "173",
+      "AtomicMass": "24.305",
+      "BoilingPoint": "1363",
+      "OxidationStates": "+2",
+      "Electronegativity": "1.31",
+      "Density": "1.74"
+    }
+  },
+  {
+    "Z": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "layout": {
+      "display_col": 7,
+      "group": 7,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 600.0,
+      "urban_soils_ppm": 729.0,
+      "crust_whole_ppm": 950.0,
+      "sphere_size_ppm": 950.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d5",
+      "IonizationEnergy": "7.434",
+      "StandardState": "Solid",
+      "MeltingPoint": "1519",
+      "AtomicRadius": "197",
+      "AtomicMass": "54.93804",
+      "BoilingPoint": "2334",
+      "OxidationStates": "+7, +4, +3, +2",
+      "Electronegativity": "1.55",
+      "Density": "7.3"
+    }
+  },
+  {
+    "Z": 42,
+    "symbol": "Mo",
+    "name": "Molybdenum",
+    "layout": {
+      "display_col": 6,
+      "group": 6,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 1.1,
+      "urban_soils_ppm": 2.4,
+      "crust_whole_ppm": 1.2,
+      "sphere_size_ppm": 1.2
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s1 4d5",
+      "IonizationEnergy": "7.092",
+      "StandardState": "Solid",
+      "MeltingPoint": "2896",
+      "AtomicRadius": "209",
+      "AtomicMass": "95.95",
+      "ElectronAffinity": "0.746",
+      "BoilingPoint": "4912",
+      "OxidationStates": "+6",
+      "Electronegativity": "2.16",
+      "Density": "10.2"
+    }
+  },
+  {
+    "Z": 109,
+    "symbol": "Mt",
+    "name": "Meitnerium",
+    "layout": {
+      "display_col": 9,
+      "group": 9,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d7 (calculated)",
+      "StandardState": "Solid",
+      "AtomicMass": "277.154",
+      "OxidationStates": "9, 8, 6, 4, 3, 1"
+    }
+  },
+  {
+    "Z": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "layout": {
+      "display_col": 15,
+      "group": 15,
+      "period": 2,
+      "series": "main",
+      "display_row": 2,
+      "block": "p"
+    },
+    "category": {
+      "major": "nonmetal",
+      "minor": "nonmetal"
+    },
+    "best": {
+      "crust_ucc_ppm": 83.0,
+      "urban_soils_ppm": 10000.0,
+      "crust_whole_ppm": 19.0,
+      "sphere_size_ppm": 19.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[He] 2s2 2p3",
+      "IonizationEnergy": "14.534",
+      "StandardState": "Gas",
+      "MeltingPoint": "63.15",
+      "AtomicRadius": "155",
+      "AtomicMass": "14.007",
+      "BoilingPoint": "77.36",
+      "OxidationStates": "+5, +4, +3, +2, +1, -1, -2, -3",
+      "Electronegativity": "3.04",
+      "Density": "0.0012506"
+    }
+  },
+  {
+    "Z": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "layout": {
+      "display_col": 1,
+      "group": 1,
+      "period": 3,
+      "series": "main",
+      "display_row": 3,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkali"
+    },
+    "best": {
+      "crust_ucc_ppm": 28900.0,
+      "urban_soils_ppm": 5800.0,
+      "crust_whole_ppm": 23600.0,
+      "sphere_size_ppm": 23600.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ne]3s1",
+      "IonizationEnergy": "5.139",
+      "StandardState": "Solid",
+      "MeltingPoint": "370.95",
+      "AtomicRadius": "227",
+      "AtomicMass": "22.9897693",
+      "ElectronAffinity": "0.548",
+      "BoilingPoint": "1156",
+      "OxidationStates": "+1",
+      "Electronegativity": "0.93",
+      "Density": "0.97"
+    }
+  },
+  {
+    "Z": 41,
+    "symbol": "Nb",
+    "name": "Niobium",
+    "layout": {
+      "display_col": 5,
+      "group": 5,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 12.0,
+      "urban_soils_ppm": 15.7,
+      "crust_whole_ppm": 20.0,
+      "sphere_size_ppm": 20.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s1 4d4",
+      "IonizationEnergy": "6.759",
+      "StandardState": "Solid",
+      "MeltingPoint": "2750",
+      "AtomicRadius": "207",
+      "AtomicMass": "92.90637",
+      "ElectronAffinity": "0.893",
+      "BoilingPoint": "5017",
+      "OxidationStates": "+5, +3",
+      "Electronegativity": "1.6",
+      "Density": "8.57"
+    }
+  },
+  {
+    "Z": 60,
+    "symbol": "Nd",
+    "name": "Neodymium",
+    "layout": {
+      "display_col": 7,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 27.0,
+      "crust_whole_ppm": 41.5,
+      "sphere_size_ppm": 41.5
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f4",
+      "IonizationEnergy": "5.525",
+      "StandardState": "Solid",
+      "MeltingPoint": "1294",
+      "AtomicRadius": "229",
+      "AtomicMass": "144.24",
+      "BoilingPoint": "3347",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.14",
+      "Density": "7.01"
+    }
+  },
+  {
+    "Z": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "layout": {
+      "display_col": 18,
+      "group": 18,
+      "period": 2,
+      "series": "main",
+      "display_row": 2,
+      "block": "p"
+    },
+    "category": {
+      "major": "noble_gas",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_whole_ppm": 0.005,
+      "sphere_size_ppm": 0.005
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[He]2s2 2p6",
+      "IonizationEnergy": "21.565",
+      "StandardState": "Gas",
+      "MeltingPoint": "24.56",
+      "AtomicRadius": "154",
+      "AtomicMass": "20.180",
+      "BoilingPoint": "27.07",
+      "OxidationStates": "0",
+      "Density": "0.0008999"
+    }
+  },
+  {
+    "Z": 113,
+    "symbol": "Nh",
+    "name": "Nihonium",
+    "layout": {
+      "display_col": 13,
+      "group": 13,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]5f14 6d10 7s2 7p1 (predicted)",
+      "StandardState": "Expected to be a Solid",
+      "AtomicMass": "286.182"
+    }
+  },
+  {
+    "Z": 28,
+    "symbol": "Ni",
+    "name": "Nickel",
+    "layout": {
+      "display_col": 10,
+      "group": 10,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 47.0,
+      "urban_soils_ppm": 33.0,
+      "crust_whole_ppm": 84.0,
+      "sphere_size_ppm": 84.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d8",
+      "IonizationEnergy": "7.640",
+      "StandardState": "Solid",
+      "MeltingPoint": "1728",
+      "AtomicRadius": "163",
+      "AtomicMass": "58.693",
+      "ElectronAffinity": "1.156",
+      "BoilingPoint": "3186",
+      "OxidationStates": "+3, +2",
+      "Electronegativity": "1.91",
+      "Density": "8.912"
+    }
+  },
+  {
+    "Z": 102,
+    "symbol": "No",
+    "name": "Nobelium",
+    "layout": {
+      "display_col": 17,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14",
+      "IonizationEnergy": "6.65",
+      "StandardState": "Solid",
+      "MeltingPoint": "1100",
+      "AtomicMass": "259.10100",
+      "OxidationStates": "+3, +2",
+      "Electronegativity": "1.3"
+    }
+  },
+  {
+    "Z": 93,
+    "symbol": "Np",
+    "name": "Neptunium",
+    "layout": {
+      "display_col": 8,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f4 6d1",
+      "IonizationEnergy": "6.266",
+      "StandardState": "Solid",
+      "MeltingPoint": "917",
+      "AtomicRadius": "221",
+      "AtomicMass": "237.048172",
+      "BoilingPoint": "4175",
+      "OxidationStates": "+6, +5, +4, +3",
+      "Electronegativity": "1.36",
+      "Density": "20.25"
+    }
+  },
+  {
+    "Z": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "layout": {
+      "display_col": 16,
+      "group": 16,
+      "period": 2,
+      "series": "main",
+      "display_row": 2,
+      "block": "p"
+    },
+    "category": {
+      "major": "nonmetal",
+      "minor": "nonmetal"
+    },
+    "best": {
+      "urban_soils_ppm": 490000.0,
+      "crust_whole_ppm": 461000.0,
+      "sphere_size_ppm": 461000.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[He]2s2 2p4",
+      "IonizationEnergy": "13.618",
+      "StandardState": "Gas",
+      "MeltingPoint": "54.36",
+      "AtomicRadius": "152",
+      "AtomicMass": "15.999",
+      "ElectronAffinity": "1.461",
+      "BoilingPoint": "90.2",
+      "OxidationStates": "-2",
+      "Electronegativity": "3.44",
+      "Density": "0.001429"
+    }
+  },
+  {
+    "Z": 118,
+    "symbol": "Og",
+    "name": "Oganesson",
+    "layout": {
+      "display_col": 18,
+      "group": 18,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "p"
+    },
+    "category": {
+      "major": "noble_gas",
+      "minor": "p_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 7p6 5f14 6d10 (predicted)",
+      "StandardState": "Expected to be a Gas",
+      "AtomicMass": "295.216",
+      "OxidationStates": "+6, +4, +2, +1, 0, -1"
+    }
+  },
+  {
+    "Z": 76,
+    "symbol": "Os",
+    "name": "Osmium",
+    "layout": {
+      "display_col": 8,
+      "group": 8,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.031,
+      "crust_whole_ppm": 0.0015,
+      "sphere_size_ppm": 0.0015
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d6",
+      "IonizationEnergy": "8.7",
+      "StandardState": "Solid",
+      "MeltingPoint": "3306",
+      "AtomicRadius": "216",
+      "AtomicMass": "190.2",
+      "ElectronAffinity": "1.1",
+      "BoilingPoint": "5285",
+      "OxidationStates": "+4, +3",
+      "Electronegativity": "2.2",
+      "Density": "22.57"
+    }
+  },
+  {
+    "Z": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "layout": {
+      "display_col": 15,
+      "group": 15,
+      "period": 3,
+      "series": "main",
+      "display_row": 3,
+      "block": "p"
+    },
+    "category": {
+      "major": "nonmetal",
+      "minor": "nonmetal"
+    },
+    "best": {
+      "urban_soils_ppm": 1200.0,
+      "crust_whole_ppm": 1050.0,
+      "sphere_size_ppm": 1050.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ne]3s2 3p3",
+      "IonizationEnergy": "10.487",
+      "StandardState": "Solid",
+      "MeltingPoint": "317.3",
+      "AtomicRadius": "180",
+      "AtomicMass": "30.97376200",
+      "ElectronAffinity": "0.746",
+      "BoilingPoint": "553.65",
+      "OxidationStates": "+5, +3, -3",
+      "Electronegativity": "2.19",
+      "Density": "1.82"
+    }
+  },
+  {
+    "Z": 91,
+    "symbol": "Pa",
+    "name": "Protactinium",
+    "layout": {
+      "display_col": 6,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_whole_ppm": 1.4000000000000001e-06,
+      "sphere_size_ppm": 1.4000000000000001e-06
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f2 6d1",
+      "IonizationEnergy": "5.89",
+      "StandardState": "Solid",
+      "MeltingPoint": "1845",
+      "AtomicRadius": "243",
+      "AtomicMass": "231.03588",
+      "OxidationStates": "+5, +4",
+      "Electronegativity": "1.5",
+      "Density": "15.37"
+    }
+  },
+  {
+    "Z": 82,
+    "symbol": "Pb",
+    "name": "Lead",
+    "layout": {
+      "display_col": 14,
+      "group": 14,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 17.0,
+      "urban_soils_ppm": 54.5,
+      "crust_whole_ppm": 14.0,
+      "sphere_size_ppm": 14.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d10 6p2",
+      "IonizationEnergy": "7.417",
+      "StandardState": "Solid",
+      "MeltingPoint": "600.61",
+      "AtomicRadius": "202",
+      "AtomicMass": "207",
+      "ElectronAffinity": "0.36",
+      "BoilingPoint": "2022",
+      "OxidationStates": "+4, +2",
+      "Electronegativity": "2.33",
+      "Density": "11.342"
+    }
+  },
+  {
+    "Z": 46,
+    "symbol": "Pd",
+    "name": "Palladium",
+    "layout": {
+      "display_col": 10,
+      "group": 10,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.52,
+      "crust_whole_ppm": 0.015,
+      "sphere_size_ppm": 0.015
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]4d10",
+      "IonizationEnergy": "8.337",
+      "StandardState": "Solid",
+      "MeltingPoint": "1828.05",
+      "AtomicRadius": "202",
+      "AtomicMass": "106.42",
+      "ElectronAffinity": "0.557",
+      "BoilingPoint": "3236",
+      "OxidationStates": "+3, +2",
+      "Electronegativity": "2.2",
+      "Density": "12.0"
+    }
+  },
+  {
+    "Z": 61,
+    "symbol": "Pm",
+    "name": "Promethium",
+    "layout": {
+      "display_col": 8,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f5",
+      "IonizationEnergy": "5.55",
+      "StandardState": "Solid",
+      "MeltingPoint": "1315",
+      "AtomicRadius": "236",
+      "AtomicMass": "144.91276",
+      "BoilingPoint": "3273",
+      "OxidationStates": "+3",
+      "Density": "7.26"
+    }
+  },
+  {
+    "Z": 84,
+    "symbol": "Po",
+    "name": "Polonium",
+    "layout": {
+      "display_col": 16,
+      "group": 16,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "p"
+    },
+    "category": {
+      "major": "metalloid",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_whole_ppm": 2e-10,
+      "sphere_size_ppm": 2e-10
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d10 6p4",
+      "IonizationEnergy": "8.417",
+      "StandardState": "Solid",
+      "MeltingPoint": "527",
+      "AtomicRadius": "197",
+      "AtomicMass": "208.98243",
+      "ElectronAffinity": "1.9",
+      "BoilingPoint": "1235",
+      "OxidationStates": "+4, +2",
+      "Electronegativity": "2",
+      "Density": "9.32"
+    }
+  },
+  {
+    "Z": 59,
+    "symbol": "Pr",
+    "name": "Praseodymium",
+    "layout": {
+      "display_col": 6,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 7.1,
+      "crust_whole_ppm": 9.2,
+      "sphere_size_ppm": 9.2
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f3",
+      "IonizationEnergy": "5.464",
+      "StandardState": "Solid",
+      "MeltingPoint": "1204",
+      "AtomicRadius": "239",
+      "AtomicMass": "140.90766",
+      "BoilingPoint": "3793",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.13",
+      "Density": "6.77"
+    }
+  },
+  {
+    "Z": 78,
+    "symbol": "Pt",
+    "name": "Platinum",
+    "layout": {
+      "display_col": 10,
+      "group": 10,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.5,
+      "crust_whole_ppm": 0.005,
+      "sphere_size_ppm": 0.005
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s1 4f14 5d9",
+      "IonizationEnergy": "9",
+      "StandardState": "Solid",
+      "MeltingPoint": "2041.55",
+      "AtomicRadius": "209",
+      "AtomicMass": "195.08",
+      "ElectronAffinity": "2.128",
+      "BoilingPoint": "4098",
+      "OxidationStates": "+4, +2",
+      "Electronegativity": "2.28",
+      "Density": "21.46"
+    }
+  },
+  {
+    "Z": 94,
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "layout": {
+      "display_col": 9,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f6",
+      "IonizationEnergy": "6.06",
+      "StandardState": "Solid",
+      "MeltingPoint": "913",
+      "AtomicRadius": "243",
+      "AtomicMass": "244.06420",
+      "BoilingPoint": "3501",
+      "OxidationStates": "+6, +5, +4, +3",
+      "Electronegativity": "1.28",
+      "Density": "19.84"
+    }
+  },
+  {
+    "Z": 88,
+    "symbol": "Ra",
+    "name": "Radium",
+    "layout": {
+      "display_col": 2,
+      "group": 2,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkaline_earth"
+    },
+    "best": {
+      "crust_whole_ppm": 9e-07,
+      "sphere_size_ppm": 9e-07
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2",
+      "IonizationEnergy": "5.279",
+      "StandardState": "Solid",
+      "MeltingPoint": "973",
+      "AtomicRadius": "283",
+      "AtomicMass": "226.02541",
+      "BoilingPoint": "1413",
+      "OxidationStates": "+2",
+      "Electronegativity": "0.9",
+      "Density": "5"
+    }
+  },
+  {
+    "Z": 37,
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "layout": {
+      "display_col": 1,
+      "group": 1,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkali"
+    },
+    "best": {
+      "crust_ucc_ppm": 84.0,
+      "urban_soils_ppm": 58.0,
+      "crust_whole_ppm": 90.0,
+      "sphere_size_ppm": 90.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s1",
+      "IonizationEnergy": "4.177",
+      "StandardState": "Solid",
+      "MeltingPoint": "312.46",
+      "AtomicRadius": "303",
+      "AtomicMass": "85.468",
+      "ElectronAffinity": "0.468",
+      "BoilingPoint": "961",
+      "OxidationStates": "+1",
+      "Electronegativity": "0.82",
+      "Density": "1.53"
+    }
+  },
+  {
+    "Z": 75,
+    "symbol": "Re",
+    "name": "Rhenium",
+    "layout": {
+      "display_col": 7,
+      "group": 7,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.00019800000000000002,
+      "crust_whole_ppm": 0.0007,
+      "sphere_size_ppm": 0.0007
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d5",
+      "IonizationEnergy": "7.88",
+      "StandardState": "Solid",
+      "MeltingPoint": "3459",
+      "AtomicRadius": "217",
+      "AtomicMass": "186.207",
+      "ElectronAffinity": "0.15",
+      "BoilingPoint": "5869",
+      "OxidationStates": "+7, +6, +4",
+      "Electronegativity": "1.9",
+      "Density": "20.8"
+    }
+  },
+  {
+    "Z": 104,
+    "symbol": "Rf",
+    "name": "Rutherfordium",
+    "layout": {
+      "display_col": 4,
+      "group": 4,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d2",
+      "StandardState": "Solid",
+      "AtomicMass": "267.122",
+      "OxidationStates": "+4"
+    }
+  },
+  {
+    "Z": 111,
+    "symbol": "Rg",
+    "name": "Roentgenium",
+    "layout": {
+      "display_col": 11,
+      "group": 11,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d9 (predicted)",
+      "StandardState": "Expected to be a Solid",
+      "AtomicMass": "282.169",
+      "OxidationStates": "5, 3, 1, -1"
+    }
+  },
+  {
+    "Z": 45,
+    "symbol": "Rh",
+    "name": "Rhodium",
+    "layout": {
+      "display_col": 9,
+      "group": 9,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_whole_ppm": 0.001,
+      "sphere_size_ppm": 0.001
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s1 4d8",
+      "IonizationEnergy": "7.459",
+      "StandardState": "Solid",
+      "MeltingPoint": "2237",
+      "AtomicRadius": "195",
+      "AtomicMass": "102.9055",
+      "ElectronAffinity": "1.137",
+      "BoilingPoint": "3968",
+      "OxidationStates": "+3",
+      "Electronegativity": "2.28",
+      "Density": "12.4"
+    }
+  },
+  {
+    "Z": 86,
+    "symbol": "Rn",
+    "name": "Radon",
+    "layout": {
+      "display_col": 18,
+      "group": 18,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "p"
+    },
+    "category": {
+      "major": "noble_gas",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_whole_ppm": 4e-13,
+      "sphere_size_ppm": 4e-13
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d10 6p6",
+      "IonizationEnergy": "10.745",
+      "StandardState": "Gas",
+      "MeltingPoint": "202",
+      "AtomicRadius": "220",
+      "AtomicMass": "222.01758",
+      "BoilingPoint": "211.45",
+      "OxidationStates": "0",
+      "Density": "0.00973"
+    }
+  },
+  {
+    "Z": 44,
+    "symbol": "Ru",
+    "name": "Ruthenium",
+    "layout": {
+      "display_col": 8,
+      "group": 8,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.00034,
+      "crust_whole_ppm": 0.001,
+      "sphere_size_ppm": 0.001
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s1 4d7",
+      "IonizationEnergy": "7.361",
+      "StandardState": "Solid",
+      "MeltingPoint": "2607",
+      "AtomicRadius": "207",
+      "AtomicMass": "101.1",
+      "ElectronAffinity": "1.05",
+      "BoilingPoint": "4423",
+      "OxidationStates": "+3",
+      "Electronegativity": "2.2",
+      "Density": "12.1"
+    }
+  },
+  {
+    "Z": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "layout": {
+      "display_col": 16,
+      "group": 16,
+      "period": 3,
+      "series": "main",
+      "display_row": 3,
+      "block": "p"
+    },
+    "category": {
+      "major": "nonmetal",
+      "minor": "nonmetal"
+    },
+    "best": {
+      "crust_ucc_ppm": 621.0,
+      "urban_soils_ppm": 1200.0,
+      "crust_whole_ppm": 350.0,
+      "sphere_size_ppm": 350.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ne]3s2 3p4",
+      "IonizationEnergy": "10.360",
+      "StandardState": "Solid",
+      "MeltingPoint": "388.36",
+      "AtomicRadius": "180",
+      "AtomicMass": "32.07",
+      "ElectronAffinity": "2.077",
+      "BoilingPoint": "717.75",
+      "OxidationStates": "+6, +4, -2",
+      "Electronegativity": "2.58",
+      "Density": "2.067"
+    }
+  },
+  {
+    "Z": 51,
+    "symbol": "Sb",
+    "name": "Antimony",
+    "layout": {
+      "display_col": 15,
+      "group": 15,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "p"
+    },
+    "category": {
+      "major": "metalloid",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.4,
+      "urban_soils_ppm": 1.0,
+      "crust_whole_ppm": 0.19999999999999998,
+      "sphere_size_ppm": 0.19999999999999998
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d10 5p3",
+      "IonizationEnergy": "8.64",
+      "StandardState": "Solid",
+      "MeltingPoint": "903.78",
+      "AtomicRadius": "206",
+      "AtomicMass": "121.760",
+      "ElectronAffinity": "1.07",
+      "BoilingPoint": "1860",
+      "OxidationStates": "+5, +3, -3",
+      "Electronegativity": "2.05",
+      "Density": "6.685"
+    }
+  },
+  {
+    "Z": 21,
+    "symbol": "Sc",
+    "name": "Scandium",
+    "layout": {
+      "display_col": 3,
+      "group": 3,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 14.0,
+      "urban_soils_ppm": 9.4,
+      "crust_whole_ppm": 22.0,
+      "sphere_size_ppm": 22.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d1",
+      "IonizationEnergy": "6.561",
+      "StandardState": "Solid",
+      "MeltingPoint": "1814",
+      "AtomicRadius": "211",
+      "AtomicMass": "44.95591",
+      "ElectronAffinity": "0.188",
+      "BoilingPoint": "3109",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.36",
+      "Density": "2.99"
+    }
+  },
+  {
+    "Z": 34,
+    "symbol": "Se",
+    "name": "Selenium",
+    "layout": {
+      "display_col": 16,
+      "group": 16,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "p"
+    },
+    "category": {
+      "major": "nonmetal",
+      "minor": "nonmetal"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.09,
+      "crust_whole_ppm": 0.049999999999999996,
+      "sphere_size_ppm": 0.049999999999999996
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d10 4p4",
+      "IonizationEnergy": "9.752",
+      "StandardState": "Solid",
+      "MeltingPoint": "493.65",
+      "AtomicRadius": "190",
+      "AtomicMass": "78.97",
+      "ElectronAffinity": "2.021",
+      "BoilingPoint": "958",
+      "OxidationStates": "+6, +4, -2",
+      "Electronegativity": "2.55",
+      "Density": "4.809"
+    }
+  },
+  {
+    "Z": 106,
+    "symbol": "Sg",
+    "name": "Seaborgium",
+    "layout": {
+      "display_col": 6,
+      "group": 6,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f14 6d4",
+      "StandardState": "Solid",
+      "AtomicMass": "269.128",
+      "OxidationStates": "6, 5, 4, 3, 0"
+    }
+  },
+  {
+    "Z": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "layout": {
+      "display_col": 14,
+      "group": 14,
+      "period": 3,
+      "series": "main",
+      "display_row": 3,
+      "block": "p"
+    },
+    "category": {
+      "major": "metalloid",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 308000.0,
+      "urban_soils_ppm": 289000.0,
+      "crust_whole_ppm": 282000.0,
+      "sphere_size_ppm": 282000.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ne]3s2 3p2",
+      "IonizationEnergy": "8.152",
+      "StandardState": "Solid",
+      "MeltingPoint": "1687",
+      "AtomicRadius": "210",
+      "AtomicMass": "28.085",
+      "ElectronAffinity": "1.385",
+      "BoilingPoint": "3538",
+      "OxidationStates": "+4, +2, -4",
+      "Electronegativity": "1.9",
+      "Density": "2.3296"
+    }
+  },
+  {
+    "Z": 62,
+    "symbol": "Sm",
+    "name": "Samarium",
+    "layout": {
+      "display_col": 9,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 4.7,
+      "crust_whole_ppm": 7.05,
+      "sphere_size_ppm": 7.05
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f6",
+      "IonizationEnergy": "5.644",
+      "StandardState": "Solid",
+      "MeltingPoint": "1347",
+      "AtomicRadius": "229",
+      "AtomicMass": "150.4",
+      "BoilingPoint": "2067",
+      "OxidationStates": "+3, +2",
+      "Electronegativity": "1.17",
+      "Density": "7.52"
+    }
+  },
+  {
+    "Z": 50,
+    "symbol": "Sn",
+    "name": "Tin",
+    "layout": {
+      "display_col": 14,
+      "group": 14,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 2.1,
+      "urban_soils_ppm": 6.8,
+      "crust_whole_ppm": 2.3,
+      "sphere_size_ppm": 2.3
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d10 5p2",
+      "IonizationEnergy": "7.344",
+      "StandardState": "Solid",
+      "MeltingPoint": "505.08",
+      "AtomicRadius": "217",
+      "AtomicMass": "118.71",
+      "ElectronAffinity": "1.2",
+      "BoilingPoint": "2875",
+      "OxidationStates": "+4, +2",
+      "Electronegativity": "1.96",
+      "Density": "7.287"
+    }
+  },
+  {
+    "Z": 38,
+    "symbol": "Sr",
+    "name": "Strontium",
+    "layout": {
+      "display_col": 2,
+      "group": 2,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "s"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "alkaline_earth"
+    },
+    "best": {
+      "crust_ucc_ppm": 320.0,
+      "urban_soils_ppm": 458.0,
+      "crust_whole_ppm": 370.0,
+      "sphere_size_ppm": 370.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2",
+      "IonizationEnergy": "5.695",
+      "StandardState": "Solid",
+      "MeltingPoint": "1050",
+      "AtomicRadius": "249",
+      "AtomicMass": "87.62",
+      "BoilingPoint": "1655",
+      "OxidationStates": "+2",
+      "Electronegativity": "0.95",
+      "Density": "2.64"
+    }
+  },
+  {
+    "Z": 73,
+    "symbol": "Ta",
+    "name": "Tantalum",
+    "layout": {
+      "display_col": 5,
+      "group": 5,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.9,
+      "urban_soils_ppm": 1.5,
+      "crust_whole_ppm": 2.0,
+      "sphere_size_ppm": 2.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d3",
+      "IonizationEnergy": "7.89",
+      "StandardState": "Solid",
+      "MeltingPoint": "3290",
+      "AtomicRadius": "217",
+      "AtomicMass": "180.9479",
+      "ElectronAffinity": "0.322",
+      "BoilingPoint": "5731",
+      "OxidationStates": "+5",
+      "Electronegativity": "1.5",
+      "Density": "16.4"
+    }
+  },
+  {
+    "Z": 65,
+    "symbol": "Tb",
+    "name": "Terbium",
+    "layout": {
+      "display_col": 12,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.7,
+      "crust_whole_ppm": 1.2,
+      "sphere_size_ppm": 1.2
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f9",
+      "IonizationEnergy": "5.864",
+      "StandardState": "Solid",
+      "MeltingPoint": "1629",
+      "AtomicRadius": "221",
+      "AtomicMass": "158.92535",
+      "BoilingPoint": "3503",
+      "OxidationStates": "+3",
+      "Density": "8.23"
+    }
+  },
+  {
+    "Z": 43,
+    "symbol": "Tc",
+    "name": "Technetium",
+    "layout": {
+      "display_col": 7,
+      "group": 7,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d5",
+      "IonizationEnergy": "7.28",
+      "StandardState": "Solid",
+      "MeltingPoint": "2430",
+      "AtomicRadius": "209",
+      "AtomicMass": "96.90636",
+      "ElectronAffinity": "0.55",
+      "BoilingPoint": "4538",
+      "OxidationStates": "+7, +6, +4",
+      "Electronegativity": "1.9",
+      "Density": "11"
+    }
+  },
+  {
+    "Z": 52,
+    "symbol": "Te",
+    "name": "Tellurium",
+    "layout": {
+      "display_col": 16,
+      "group": 16,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "p"
+    },
+    "category": {
+      "major": "metalloid",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_whole_ppm": 0.001,
+      "sphere_size_ppm": 0.001
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d10 5p4",
+      "IonizationEnergy": "9.010",
+      "StandardState": "Solid",
+      "MeltingPoint": "722.66",
+      "AtomicRadius": "206",
+      "AtomicMass": "127.6",
+      "ElectronAffinity": "1.971",
+      "BoilingPoint": "1261",
+      "OxidationStates": "+6, +4, -2",
+      "Electronegativity": "2.1",
+      "Density": "6.232"
+    }
+  },
+  {
+    "Z": 90,
+    "symbol": "Th",
+    "name": "Thorium",
+    "layout": {
+      "display_col": 5,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 10.5,
+      "crust_whole_ppm": 9.6,
+      "sphere_size_ppm": 9.6
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 6d2",
+      "IonizationEnergy": "6.08",
+      "StandardState": "Solid",
+      "MeltingPoint": "2023",
+      "AtomicRadius": "237",
+      "AtomicMass": "232.038",
+      "BoilingPoint": "5061",
+      "OxidationStates": "+4",
+      "Electronegativity": "1.3",
+      "Density": "11.72"
+    }
+  },
+  {
+    "Z": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "layout": {
+      "display_col": 4,
+      "group": 4,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 3000.0,
+      "urban_soils_ppm": 4758.0,
+      "crust_whole_ppm": 5650.0,
+      "sphere_size_ppm": 5650.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d2",
+      "IonizationEnergy": "6.828",
+      "StandardState": "Solid",
+      "MeltingPoint": "1941",
+      "AtomicRadius": "187",
+      "AtomicMass": "47.867",
+      "ElectronAffinity": "0.079",
+      "BoilingPoint": "3560",
+      "OxidationStates": "+4, +3, +2",
+      "Electronegativity": "1.54",
+      "Density": "4.5"
+    }
+  },
+  {
+    "Z": 81,
+    "symbol": "Tl",
+    "name": "Thallium",
+    "layout": {
+      "display_col": 13,
+      "group": 13,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "p"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "post_transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.75,
+      "urban_soils_ppm": 1.1,
+      "crust_whole_ppm": 0.85,
+      "sphere_size_ppm": 0.85
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d10 6p1",
+      "IonizationEnergy": "6.108",
+      "StandardState": "Solid",
+      "MeltingPoint": "577",
+      "AtomicRadius": "196",
+      "AtomicMass": "204.383",
+      "ElectronAffinity": "0.2",
+      "BoilingPoint": "1746",
+      "OxidationStates": "+3, +1",
+      "Electronegativity": "1.62",
+      "Density": "11.8"
+    }
+  },
+  {
+    "Z": 69,
+    "symbol": "Tm",
+    "name": "Thulium",
+    "layout": {
+      "display_col": 16,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 0.3,
+      "crust_whole_ppm": 0.52,
+      "sphere_size_ppm": 0.52
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f13",
+      "IonizationEnergy": "6.184",
+      "StandardState": "Solid",
+      "MeltingPoint": "1818",
+      "AtomicRadius": "227",
+      "AtomicMass": "168.93422",
+      "BoilingPoint": "2223",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.25",
+      "Density": "9.32"
+    }
+  },
+  {
+    "Z": 117,
+    "symbol": "Ts",
+    "name": "Tennessine",
+    "layout": {
+      "display_col": 17,
+      "group": 17,
+      "period": 7,
+      "series": "main",
+      "display_row": 7,
+      "block": "p"
+    },
+    "category": {
+      "major": "halogen",
+      "minor": "p_block"
+    },
+    "best": {},
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 7p5 5f14 6d10 (predicted)",
+      "StandardState": "Expected to be a Solid",
+      "AtomicMass": "294.211",
+      "OxidationStates": "+5, +3, +1, -1"
+    }
+  },
+  {
+    "Z": 92,
+    "symbol": "U",
+    "name": "Uranium",
+    "layout": {
+      "display_col": 7,
+      "series": "actinide",
+      "display_row": 9,
+      "block": "f"
+    },
+    "category": {
+      "major": "actinide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 2.7,
+      "crust_whole_ppm": 2.7,
+      "sphere_size_ppm": 2.7
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Rn]7s2 5f3 6d1",
+      "IonizationEnergy": "6.194",
+      "StandardState": "Solid",
+      "MeltingPoint": "1408",
+      "AtomicRadius": "240",
+      "AtomicMass": "238.0289",
+      "BoilingPoint": "4404",
+      "OxidationStates": "+6, +5, +4, +3",
+      "Electronegativity": "1.38",
+      "Density": "18.95"
+    }
+  },
+  {
+    "Z": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "layout": {
+      "display_col": 5,
+      "group": 5,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 97.0,
+      "urban_soils_ppm": 104.9,
+      "crust_whole_ppm": 120.0,
+      "sphere_size_ppm": 120.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d3",
+      "IonizationEnergy": "6.746",
+      "StandardState": "Solid",
+      "MeltingPoint": "2183",
+      "AtomicRadius": "179",
+      "AtomicMass": "50.9415",
+      "ElectronAffinity": "0.525",
+      "BoilingPoint": "3680",
+      "OxidationStates": "+5, +4, +3, +2",
+      "Electronegativity": "1.63",
+      "Density": "6.0"
+    }
+  },
+  {
+    "Z": 74,
+    "symbol": "W",
+    "name": "Tungsten",
+    "layout": {
+      "display_col": 6,
+      "group": 6,
+      "period": 6,
+      "series": "main",
+      "display_row": 6,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 1.9,
+      "urban_soils_ppm": 2.9,
+      "crust_whole_ppm": 1.25,
+      "sphere_size_ppm": 1.25
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14 5d4",
+      "IonizationEnergy": "7.98",
+      "StandardState": "Solid",
+      "MeltingPoint": "3695",
+      "AtomicRadius": "210",
+      "AtomicMass": "183.84",
+      "ElectronAffinity": "0.815",
+      "BoilingPoint": "5828",
+      "OxidationStates": "+6",
+      "Electronegativity": "2.36",
+      "Density": "19.3"
+    }
+  },
+  {
+    "Z": 54,
+    "symbol": "Xe",
+    "name": "Xenon",
+    "layout": {
+      "display_col": 18,
+      "group": 18,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "p"
+    },
+    "category": {
+      "major": "noble_gas",
+      "minor": "p_block"
+    },
+    "best": {
+      "crust_whole_ppm": 3e-05,
+      "sphere_size_ppm": 3e-05
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d10 5p6",
+      "IonizationEnergy": "12.130",
+      "StandardState": "Gas",
+      "MeltingPoint": "161.36",
+      "AtomicRadius": "216",
+      "AtomicMass": "131.29",
+      "BoilingPoint": "165.03",
+      "OxidationStates": "0",
+      "Electronegativity": "2.6",
+      "Density": "0.005887"
+    }
+  },
+  {
+    "Z": 39,
+    "symbol": "Y",
+    "name": "Yttrium",
+    "layout": {
+      "display_col": 3,
+      "group": 3,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 21.0,
+      "urban_soils_ppm": 23.4,
+      "crust_whole_ppm": 33.0,
+      "sphere_size_ppm": 33.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d1",
+      "IonizationEnergy": "6.217",
+      "StandardState": "Solid",
+      "MeltingPoint": "1795",
+      "AtomicRadius": "219",
+      "AtomicMass": "88.90584",
+      "ElectronAffinity": "0.307",
+      "BoilingPoint": "3618",
+      "OxidationStates": "+3",
+      "Electronegativity": "1.22",
+      "Density": "4.47"
+    }
+  },
+  {
+    "Z": 70,
+    "symbol": "Yb",
+    "name": "Ytterbium",
+    "layout": {
+      "display_col": 17,
+      "series": "lanthanide",
+      "display_row": 8,
+      "block": "f"
+    },
+    "category": {
+      "major": "lanthanide",
+      "minor": "f_block"
+    },
+    "best": {
+      "crust_ucc_ppm": 2.0,
+      "urban_soils_ppm": 2.4,
+      "crust_whole_ppm": 3.1999999999999997,
+      "sphere_size_ppm": 3.1999999999999997
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Xe]6s2 4f14",
+      "IonizationEnergy": "6.254",
+      "StandardState": "Solid",
+      "MeltingPoint": "1092",
+      "AtomicRadius": "242",
+      "AtomicMass": "173.05",
+      "BoilingPoint": "1469",
+      "OxidationStates": "+3, +2",
+      "Density": "6.90"
+    }
+  },
+  {
+    "Z": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "layout": {
+      "display_col": 12,
+      "group": 12,
+      "period": 4,
+      "series": "main",
+      "display_row": 4,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 67.0,
+      "urban_soils_ppm": 158.0,
+      "crust_whole_ppm": 70.0,
+      "sphere_size_ppm": 70.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Ar]4s2 3d10",
+      "IonizationEnergy": "9.394",
+      "StandardState": "Solid",
+      "MeltingPoint": "692.68",
+      "AtomicRadius": "139",
+      "AtomicMass": "65.4",
+      "BoilingPoint": "1180",
+      "OxidationStates": "+2",
+      "Electronegativity": "1.65",
+      "Density": "7.134"
+    }
+  },
+  {
+    "Z": 40,
+    "symbol": "Zr",
+    "name": "Zirconium",
+    "layout": {
+      "display_col": 4,
+      "group": 4,
+      "period": 5,
+      "series": "main",
+      "display_row": 5,
+      "block": "d"
+    },
+    "category": {
+      "major": "metal",
+      "minor": "transition"
+    },
+    "best": {
+      "crust_ucc_ppm": 193.0,
+      "urban_soils_ppm": 255.6,
+      "crust_whole_ppm": 165.0,
+      "sphere_size_ppm": 165.0
+    },
+    "pubchem": {
+      "ElectronConfiguration": "[Kr]5s2 4d2",
+      "IonizationEnergy": "6.634",
+      "StandardState": "Solid",
+      "MeltingPoint": "2128",
+      "AtomicRadius": "186",
+      "AtomicMass": "91.22",
+      "ElectronAffinity": "0.426",
+      "BoilingPoint": "4682",
+      "OxidationStates": "+4",
+      "Electronegativity": "1.33",
+      "Density": "6.52"
+    }
+  }
+]

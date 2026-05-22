@@ -2041,6 +2041,18 @@
       "OxidationStates": "+5, +4, +3, +2, +1, -1, -2, -3",
       "Electronegativity": "3.04",
       "Density": "0.0012506"
+    },
+    "extensions": {
+      "active_atoms": [
+        {
+          "id": "nitred",
+          "label": "Nitred APT",
+          "state": "active",
+          "hover_effect": "halo",
+          "click_action": "open_nitred_species_panel",
+          "target": "nitred_apt_public_layout.json"
+        }
+      ]
     }
   },
   {
